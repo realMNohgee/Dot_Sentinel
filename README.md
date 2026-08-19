@@ -1,4 +1,5 @@
 # Dot_Sentinel 🔍
+![CI](https://github.com/realMNohgee/Dot_Sentinel/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **.env security scanner.** Detect secrets, missing vars, weak values. Zero dependencies, pure Python stdlib.
 
