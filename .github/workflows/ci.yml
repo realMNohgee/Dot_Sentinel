@@ -9,6 +9,6 @@ jobs:
         with:
           python-version: '3.9'
       - name: Compile check
-        run: python3 -m py_compile Dot_Sentinel.py
+        run: python3 -m py_compile dot_sentinel.py
       - name: Smoke test (--help)
-        run: python3 Dot_Sentinel.py --help
+        run: python3 dot_sentinel.py --help
